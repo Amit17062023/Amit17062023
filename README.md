@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning bca...
+- 👯 I’m looking to collaborate on projecrt...
+- 🤔 I’m looking for help with learning...
+
 <!--
 **Amit17062023/Amit17062023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
